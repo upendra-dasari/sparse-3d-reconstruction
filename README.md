@@ -188,7 +188,7 @@ python test_temple_coords.py \
 | Reprojection Error | **1.83 pixels** |
 | Points with Positive Depth | **288 / 288 (100%)** |
 
-> The assignment target was a reprojection error **< 2 pixels**. ✅
+> The assignment target was a reprojection error **< 2 pixels**.
 
 ---
 
@@ -230,7 +230,3 @@ Pick any feature-rich points from image 1 to reconstruct into 3D. You can use a 
 | `Matplotlib` | 3D visualization |
 
 ---
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
